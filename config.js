@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Love",
     introTitle: 'Cái này mình làm để gửi đến Thanh',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `Trái đất vốn lạ 
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
